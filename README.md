@@ -2,7 +2,7 @@
 
 Instructions for configuring a CentOS minimal instance to serve as a template for provisioning VMs to host server software (e.g, Nexus, SonarQube, Jenkins, or applications).
 
-This document contains annotated instructions offering reasons for various choices in the configuration. If you don't need the explanation and just want a cheat sheet, read [this document](http://config_steps.md) instead.
+This document contains annotated instructions offering reasons for various choices in the configuration. If you don't need the explanation and just want a cheat sheet, read [this document](config_steps.md) instead.
 
 ## What is this about?
 
